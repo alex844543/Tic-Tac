@@ -9,7 +9,7 @@ let count = 0;
 
 
 let turnO = true;
-
+//This Is the possible winning outcomes a user will have
 const winPatterns =[
     [0,1,2],
     [0,3,6],
